@@ -1,0 +1,12 @@
+
+{
+	"name": "ZMPT101B",
+	"description": "An Arduino library to interact with the ZMPT101B.",
+	"keywords": "ZMPT101B, voltage measuring, rms, power monitoring",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RefreshMyMind-I/ZMPT101B.git"
+	},
+	"platforms": ["atmelavr", "espressif8266", "espressif32"]
+}
