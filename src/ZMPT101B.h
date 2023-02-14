@@ -1,5 +1,5 @@
-#ifndef ZMPT101B_H
-#define ZMPT101B_H
+#ifndef ZMPT101B_h
+#define ZMPT101B_h
 
 #include <Arduino.h>
 
